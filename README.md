@@ -1,8 +1,10 @@
-How to Run:
+How to run:
+1. Extract e-community.zip to C:\Users\<yourname>\OneDrive\Documents\NetBeansProjects
 
-1. Unzip e-community.zip
-2. Place the ecommunity folder into:
-   C:\Users\<YourName>\AppData\Roaming\NetBeans\Derby\
-3. Open NetBeans
-4. Start Derby Server
-5. Run the project
+Database Setup:
+1. Extract ecommunity_DB.zip
+2. Copy the ecommunity folder to:
+   C:\Users\<YourUsername>\AppData\Roaming\NetBeans\Derby\
+3. Start Derby Server in NetBeans
+4. Open and run the project
+
